@@ -8,9 +8,11 @@ This project demonstrates the use of \*\*Interfaces\*\*, \*\*Abstract Classes\*\
 
 \## How to Run
 
+
+
 Navigate to the build output directory:
 
-```
+```bash
 
 cd Executive/bin/Debug/net8.0
 
@@ -18,30 +20,67 @@ cd Executive/bin/Debug/net8.0
 
 ```
 
-Alternatively you can double click on Executive.exe to run it
+
+
+Alternatively, you can double-click on `Executive.exe` to run it.
 
 
 
-\## Class Hierarchy:
+\## Class Hierarchy
+
+
+
 !\[Class Diagram](https://github.com/udithdoddapaneni/InheritanceDemo/blob/main/ClassDiagram.jpg)
 
 
-I intentionally didn't make any abstract class like LandVehicles for Car for demonstration purposes
 
-## Changes I have made in the given interface template:
+\*\*Note:\*\* I intentionally didn't create an abstract class like `LandVehicles` for `Car` for demonstration purposes.
 
 
-In the given template you have given the function `Start` with return type `void`, in mine I just changed it to `string`
+
+\## Changes Made to the Given Interface Template
+
+
+
+In the provided template, the `Start` function had a return type of `void`. I changed it to `string` to better demonstrate the functionality.
 
 
 
 \## Unit Tests
 
-In total I have written 13 unit tests checking every single functionality.
-
-You can find the unit test file under ```UnitTests/InheritanceTests.cs```
 
 
+I have written a total of 13 unit tests that check every single functionality in the project.
 
 
+
+You can find the unit test file at:
+
+```
+
+UnitTests/InheritanceTests.cs
+
+```
+
+
+
+\## Project Structure
+
+
+
+```
+
+├── Executive/
+
+│   └── bin/Debug/net8.0/
+
+│       └── Executive.exe
+
+├── UnitTests/
+
+│   └── InheritanceTests.cs
+
+└── README.md
+
+```
 
