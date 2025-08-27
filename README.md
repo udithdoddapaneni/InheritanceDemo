@@ -6,22 +6,6 @@ This project demonstrates the use of \*\*Interfaces\*\*, \*\*Abstract Classes\*\
 
 
 
----
-
-
-
-\# Vehicle Inheritance Demonstration
-
-
-
-This project demonstrates \*\*interfaces\*\*, \*\*abstract classes\*\*, and \*\*inheritance\*\* in C# using different types of vehicles.
-
-
-
----
-
-
-
 \## How to Run
 
 Navigate to the build output directory:
