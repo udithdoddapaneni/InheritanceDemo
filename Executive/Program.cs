@@ -11,5 +11,7 @@ internal class Program
         Console.WriteLine("Hello, World!");
         Vehicle v = new Helicopter();
         v.Start();
+        Console.WriteLine("Press any key to exit");
+        Console.ReadLine();
     }
 }
