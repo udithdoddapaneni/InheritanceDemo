@@ -23,7 +23,7 @@ Alternatively you can double click on Executive.exe to run it
 
 
 \## Class Hierarchy:
-!\[Class Diagram](ClassDigram.png)
+!\[Class Diagram](https://github.com/udithdoddapaneni/InheritanceDemo/blob/main/ClassDiagram.jpg)
 
 
 I intentionally didn't make any abstract class like LandVehicles for Car for demonstration purposes
