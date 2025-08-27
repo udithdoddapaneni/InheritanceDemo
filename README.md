@@ -23,26 +23,7 @@ Alternatively you can double click on Executive.exe to run it
 
 
 \## Class Hierarchy:
-
-
-&nbsp;          Vehicle (interface)
-
-&nbsp;                 |
-
-&nbsp;      --------------------------
-
-&nbsp;      |                        |
-
-FlyingVehicle (abstract)      Car
-
-&nbsp;      |
-
-&nbsp; ---------------------
-
-&nbsp; |                   |
-
-Aeroplane         Helicopter
-
+!\[Class Diagram](ClassDigram.png)
 
 
 I intentionally didn't make any abstract class like LandVehicles for Car for demonstration purposes
