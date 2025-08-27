@@ -1,12 +1,12 @@
-\# Vehicle Inheritance Demo
+# Vehicle Inheritance Demo
 
 
 
-This project demonstrates the use of \*\*Interfaces\*\*, \*\*Abstract Classes\*\*, and \*\*Inheritance\*\* in C# using a simple vehicle hierarchy.
+This project demonstrates the use of **Interfaces**, **Abstract Classes**, and **Inheritance** in C# using a simple vehicle hierarchy.
 
 
 
-\## How to Run
+## How to Run
 
 
 
@@ -26,27 +26,27 @@ Alternatively, you can double-click on `Executive.exe` to run it.
 
 
 
-\## Class Hierarchy
+## Class Hierarchy
 
 
 
-!\[Class Diagram](https://github.com/udithdoddapaneni/InheritanceDemo/blob/main/ClassDiagram.jpg)
+![Class Diagram](https://github.com/udithdoddapaneni/InheritanceDemo/blob/main/ClassDiagram.jpg)
 
 
 
-\*\*Note:\*\* I intentionally didn't create an abstract class like `LandVehicles` for `Car` for demonstration purposes.
+**Note:** I intentionally didn't create an abstract class like `LandVehicles` for `Car` for demonstration purposes.
 
 
 
-\## Changes Made to the Given Interface Template
+## Changes Made to the Given Interface Template
 
 
 
-In the provided template, the `Start` function had a return type of `void`. I changed it to `string` to better demonstrate the functionality.
+In the provided template, the `Start` function had a return type of `void`. I changed it to `string`.
 
 
 
-\## Unit Tests
+## Unit Tests
 
 
 
@@ -59,28 +59,6 @@ You can find the unit test file at:
 ```
 
 UnitTests/InheritanceTests.cs
-
-```
-
-
-
-\## Project Structure
-
-
-
-```
-
-├── Executive/
-
-│   └── bin/Debug/net8.0/
-
-│       └── Executive.exe
-
-├── UnitTests/
-
-│   └── InheritanceTests.cs
-
-└── README.md
 
 ```
 
